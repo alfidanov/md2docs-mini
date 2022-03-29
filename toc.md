@@ -1,2 +1,2 @@
 - [Root](index.md)
-    - [Index](index.md)
+    - [This is the first page](index.md)
