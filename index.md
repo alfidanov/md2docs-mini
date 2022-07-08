@@ -9,3 +9,5 @@ git pull --rebase
 ```
 
 Some other text to be translated ...
+
+Text
