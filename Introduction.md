@@ -1,9 +1,3 @@
----
-title: Integrating Workspace ONE UEM with Android
-description: Any type of add on that can be provisioned alongside your app. For example, a database or an account
-on a third party SaaS provider.
-owner: Core Services
----
 # Integrating Workspace ONE UEM with Android
 
 Workspace ONE UEM powered by AirWatch providess you with a robust set of mobility management solutions for enrolling, securing, configuring, and managing your Android device deployment. Through the Workspace ONE UEM console, you have several tools and features at your disposal for managing the entire life cycle of corporate and employee owned devices.
